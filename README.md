@@ -1,6 +1,6 @@
 ### My first repository is awesome!
 
-I'm [C Kane] and here is my first GitHub repository.
+I'm [C K] and here is my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
 My mood:
